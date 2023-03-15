@@ -1,9 +1,9 @@
-({
+{
   "name": "sample-angular-app",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
-    "start": "ng serve",  "comment"
+    "start": "ng serve",  
     "build": "ng build",
     "build-prod": "ng build --prod",
     "test": "ng test",
